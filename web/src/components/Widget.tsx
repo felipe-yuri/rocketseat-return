@@ -1,6 +1,6 @@
 import { ChatTeardropDots, Heart, Horse, Smiley } from 'phosphor-react';
 import { Popover } from '@headlessui/react'
-import { WidgetForm } from './WidgetForm';
+import { WidgetForm } from './WidgetForm/WidgetForm';
 
 export function Widget() {
     return (
